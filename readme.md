@@ -1,4 +1,4 @@
-www.alekpikl.github.io/striciiztujine
+www.alekpikl.github.io/strici-iz-tujine
 --------
 Podcast landing page made with Jekyll
 
