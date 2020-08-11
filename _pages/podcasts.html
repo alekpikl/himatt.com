@@ -1,0 +1,29 @@
+---
+layout: page
+title_override: Strici iz tujine - Podkast o studiju v tujini 
+redirect_from: /portfolio
+permalink: /
+priority: 1.0
+---
+
+<div class="podcasts-intro-wrapper">
+  <p class="podcasts-intro type-level-1">Strici iz tujine&nbsp;je podkast&nbsp;o studiju v tujini&nbsp;iz prve roke.</p>
+</div>
+
+<div class="podcasts">
+{% for podcast in site.podcasts reversed limit:include.limit %}
+  <article class="podcast-listing">
+    <div class="thumbnail-wrapper">
+      <a href="{{ podcast.url | prepend: site.baseurl }}">
+        <div class="thumbnail-description-wrapper">
+          <img src="{{ podcast.thumbnail | prepend: site.image_serve_path }}" alt="{{ podcast.title }}" width="600" height="450">
+          <p class="thumbnail-description">
+            <span>{{ podcast.description }}</span>
+          </p>
+        </div>
+        <h3 aria-hidden="true">{{ podcast.title }}</h3>
+      </a>
+    </div>
+  </article>
+{% endfor %}
+</div>

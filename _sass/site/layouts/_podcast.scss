@@ -1,0 +1,103 @@
+.podcast-wrapper {
+
+  //Layout
+  .podcast-info {
+    @extend .grid-container;
+
+    .podcast-intro {
+      @include grid-column(12);
+
+      @include grid-media(tablet) {
+        @include grid-column(12);
+      }
+
+      @include grid-media(desktop) {
+        @include grid-column-from-to(2,8);
+      }
+    }
+
+    .podcast-details {
+      @include grid-column(12);
+
+      @include grid-media(desktop) {
+        @include grid-column-from-to(10,11);
+      }
+    }
+  }
+
+  .podcast-details {
+    .podcast-detail-wrapper {
+      @extend .grid-container-nested-small;
+
+      .podcast-detail-6 {
+        @include grid-column(6);
+
+        @include grid-media(phablet) {
+          @include grid-column(3);
+        }
+
+        @include grid-media(tablet) {
+          @include grid-column(2);
+        }
+
+        @include grid-media(desktop) {
+          @include grid-column(6);
+        }
+      }
+
+      .podcast-detail-12 {
+        @include grid-column(6);
+
+        @include grid-media(tablet) {
+          @include grid-column(3);
+        }
+
+        @include grid-media(desktop) {
+          @include grid-column(6);
+        }
+      }
+    }
+  }
+
+  .podcast-text {
+    @extend .grid-container;
+
+    .podcast-text-wrapper {
+      @include grid-column(12);
+
+      @include grid-media(tablet) {
+        @include grid-column(12);
+      }
+
+      @include grid-media(desktop) {
+        @include grid-column-from-to(2,8);
+      }
+    }
+  }
+
+//   //Styles
+  .image-wrapper {
+    .image-wrapper img { width: 100%; }
+
+    figcaption {
+      margin-top: rem(12px);
+      margin-bottom: rem(16px);
+    }
+
+    &.nudge-down-5 {
+      @include grid-media(desktop) {
+        margin-top: 5%;
+      }
+    }
+  }
+
+  .podcast-info {
+    margin-bottom: rem(40px);
+  }
+
+  .podcast-text {
+    @include grid-media(desktop) {
+      margin-top: var(--gutter-row);
+    }
+  }
+}

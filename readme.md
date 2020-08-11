@@ -1,6 +1,6 @@
-himatt.com
+www.alekpikl.github.io/striciiztujine
 --------
-Personal portfolio made with Jekyll
+Podcast landing page made with Jekyll
 
 ## Setup
 This site runs on Jekyll, an opensource static site generating platform.
@@ -23,6 +23,7 @@ go to http://localhost:4000/ in your browser
 ## Licenses
 ### Underlying source code
 [GNU General Public License v3.0](LICENSE) (open source)
+### This repository was forked from [Matthew Grey's repo.](https://github.com/MattGreyDesign/himatt.com)
 
 ### Content
 © Matthew Grey and himatt.com. Unauthorised use and/or duplication and

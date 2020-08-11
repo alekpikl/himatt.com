@@ -18,30 +18,25 @@ include:
   - _redirects
 
 # Site settings
-title: Matt Grey
-long-title: Matt Grey Design
-email: mattgreydesign@gmail.com
-description: "The selected portfolio of London based digital product designer Matt Grey"
+title: Strici iz tujine 
+long-title: Strici iz tujine, podkast o studiju v tujini
+email: alekpikl@gmail.com
+description: "Strici iz tujine je podkast o studiju v tujini iz prve roke!"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://himatt.com" # the base hostname & protocol for your site
-timezone: Europe/London
+url: "https://alekpikl.github.io/strici-iz-tujine" # the base hostname & protocol for your site
+timezone: Europe/Berlin
 year: 2020
-start-year: 2010
+start-year: 2020
 sitemap: true
 
 # Social networks
 social-username:
-  twitter: "@mattgreydesign"
-  linkedin: "himatt"
-  github: "mattgreydesign"
-  medium: "@mattgreydesign"
-  pinterest: "mattgreydesign"
-  instagram: "mattgreydesign"
-  flickr: "mattgreydesign"
-  spotify: "mattgreydesign"
+  medium: "@alekpikl"
+  instagram: "striciiztujine"
+  soundcloud: "striciiztujine"
 
 # Content
-image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/projects/img.jpg">
+image_serve_path: "/images" # <img src="{{ site.image_serve_path }}/podcasts/img.jpg">
 
 # Build settings
 markdown: kramdown
@@ -67,10 +62,8 @@ compress_html: # http://jch.penibelst.de/
 
 # Structure
 navigation:
-  - title: Projects
+  - title: Podcasts
     url: /
-  - title: Fonts
-    url: /fonts
   - title: About
     url: /about
   - title: Contact
@@ -80,9 +73,9 @@ permalink: /:title/
 
 # Configure site collections
 collections:
-  projects:
+  podcasts:
     output: true
-    permalink: /projects/:path/
+    permalink: /podcasts/:path/
   fonts:
     output: true
     permalink: /fonts/:path/
@@ -90,9 +83,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "projects"
+      type: "podcasts"
     values:
-      layout: "project"
+      layout: "podcast"
   - scope:
       path: ""
       type: "fonts"

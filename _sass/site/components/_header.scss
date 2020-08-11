@@ -45,7 +45,7 @@
         line-height: 49px;
         color: var(--color-text);
         text-decoration: none;
-        background: black;
+        background: white;
         outline: 0;
 
         &:hover {
@@ -80,7 +80,7 @@
           width: 100%;
 
           #logo {
-            fill: var(--color-text);
+            fill: white;
           }
         }
       }
