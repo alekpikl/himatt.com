@@ -63,9 +63,9 @@ compress_html: # http://jch.penibelst.de/
 # Structure
 navigation:
   - title: Podcasts
-    url: / 
+    url: /
   - title: About
-    url: /about
+    url: /about"
   - title: Contact
     url: /contact
 
