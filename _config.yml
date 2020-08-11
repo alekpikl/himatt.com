@@ -22,7 +22,7 @@ title: Strici iz tujine
 long-title: Strici iz tujine, podkast o studiju v tujini
 email: alekpikl@gmail.com
 description: "Strici iz tujine je podkast o studiju v tujini iz prve roke!"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/strici-iz-tujine" # the subpath of your site, e.g. /blog
 url: "https://alekpikl.github.io/strici-iz-tujine" # the base hostname & protocol for your site
 timezone: Europe/Berlin
 year: 2020
@@ -63,7 +63,7 @@ compress_html: # http://jch.penibelst.de/
 # Structure
 navigation:
   - title: Podcasts
-    url: /
+    url: / 
   - title: About
     url: /about
   - title: Contact
