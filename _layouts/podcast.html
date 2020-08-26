@@ -29,7 +29,24 @@ title-class: podcast
 <div class="podcast-wrapper">
 
   <div class="podcast-info">
-    <section class="podcast-intro paragraph-normal">{{ page.intro | markdownify }}</section>
+    <section class="podcast-intro paragraph-normal"> 
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={{page.embed_link}}>
+        </iframe>
+        <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
+            normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; 
+            font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,
+            Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+        <a href="https://soundcloud.com/striciiztujine" 
+            title="Strici iz tujine" 
+            target="_blank" 
+            style="color: #cccccc; text-decoration: none;">Strici iz tujine</a>
+        · <a href="{{page.website.url}}" 
+             title="{{page.title}}" 
+             target="_blank" 
+             style="color: #cccccc; text-decoration: none;">
+            {{page.title}}</a>
+        </div> 
+    </section>
     <aside class="podcast-details">
       <div class="podcast-detail-wrapper">
 
@@ -58,14 +75,15 @@ title-class: podcast
         {% endif %}
       </div>
     </aside>
+    <section class="podcast-intro paragraph-normal">{{ page.intro | markdownify }}</section>
   </div>
-
+<!--
   <section>
   {% for entry in page.content_layout %}
     {% include layout.html %}
   {% endfor %}
   </section>
-
+-->
   {% if page.content %}
   <section class="additional-content-wrapper">
     <div class="additional-content">
