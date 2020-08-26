@@ -29,7 +29,10 @@ priority: 0.9
     </aside>
 
     <div class="contact-form">
-      <form netlify action="/contact/confirmation">
+      <form action="https://formspree.io/xdowrnvb"
+            method="POST"
+      >
+        <input type="hidden" name="_next" value="https://www.google.com" />
         <fieldset>
           <section>
             <label for="name">Name
@@ -39,7 +42,7 @@ priority: 0.9
 
           <section>
             <label for="email">Email
-              <input required type="email" name="email" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$">
+              <input required type="email" name="_replyto" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$">
             </label>
           </section>
 
@@ -48,11 +51,7 @@ priority: 0.9
               <textarea required name="message" id="message"></textarea>
             </label>
           </section>
-
-          <section>
-            <div data-netlify-recaptcha></div>
-          </section>
-
+          <input type="text" name="_gotcha" style="display:none" />
           <input class="button-secondary" type="submit" value="Send Message">
         </fieldset>
       </form>
