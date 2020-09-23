@@ -1,6 +1,6 @@
 ---
-date: 2020-18-09
-published: false 
+date: 2020-09-23
+published: true 
 sitemap: false
 title: "Katarina Brlec | PhD Computational Chemistry | UCL London" 
 description: "PhD Computational Chemistry | UCL"
