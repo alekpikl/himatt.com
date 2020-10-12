@@ -1,6 +1,6 @@
 ---
 date: 2020-09-25
-published: false 
+published: true 
 sitemap: false
 title: "Jernej Finžgar | MSc Physics | LMU Munich" 
 description: "MSc Physics | LMU Munich"
