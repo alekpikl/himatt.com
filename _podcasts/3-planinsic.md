@@ -5,7 +5,7 @@ sitemap: true
 title: "Maja Planinšič | Evropsko pravo | Maastricht University" 
 description: "Evropsko pravo | Maastricht "
 categories: podcast
-disciplines: Education, Študij, Evropsko pravo, pravo, Maastricht, Nizozemska
+disciplines: Education, Študij, Evropsko pravo, pravo, Maastricht, Nizozemska, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

@@ -5,7 +5,7 @@ sitemap: true
 title: "Ajda Remškar | Math & AI | Edinburgh GB" 
 description: "Math & AI | Edinburgh GB"
 categories: podcast
-disciplines: Education, Študij, Math, AI, Edinburgh, VB, GB
+disciplines: Education, Študij, Math, AI, Edinburgh, VB, GB, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

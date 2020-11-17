@@ -5,7 +5,7 @@ sitemap: true
 title: "Maša Remškar | Psychology & Sports | PASSION IS THE KEY | Exeter UK" 
 description: "Psychology & Sports | Exeter UK"
 categories: podcast
-disciplines: Education, Študij, Psihologija, Šport, Exeter, VB
+disciplines: Education, Študij, Psihologija, Šport, Exeter, VB, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

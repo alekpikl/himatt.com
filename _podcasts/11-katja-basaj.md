@@ -5,7 +5,7 @@ sitemap: true
 title: "Katja Basaj | Business Management | Glasgow" 
 description: "Business Management | Glasgow"
 categories: podcast
-disciplines: Education, Študij, Glasgow, Business Management, Škotska
+disciplines: Education, Študij, Glasgow, Business Management, Škotska, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

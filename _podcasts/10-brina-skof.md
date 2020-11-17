@@ -5,7 +5,7 @@ sitemap: true
 title: "Brina Škof | International Business | Amsterdam in Bali" 
 description: "International Business | Amsterdam in Bali"
 categories: podcast
-disciplines: Education, Študij, Amsterdam, International Business, Bali
+disciplines: Education, Študij, Amsterdam, International Business, Bali, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

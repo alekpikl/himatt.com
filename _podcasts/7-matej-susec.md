@@ -5,7 +5,7 @@ sitemap: true
 title: "Matej Sušec | NCAA II Basketball | Business | Rollins College Florida" 
 description: "NCAA II Basketball | Business | Rollins College Florida"
 categories: podcast
-disciplines: Education, Študij, ZDA, College Athlete, Kosarka, Rollins College, Florida, NCAA
+disciplines: Education, Študij, ZDA, College Athlete, Kosarka, Rollins College, Florida, NCAA, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

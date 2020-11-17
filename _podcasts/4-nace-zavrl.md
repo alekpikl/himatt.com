@@ -5,7 +5,7 @@ sitemap: true
 title: "Nace Zavrl | PhD at Harvard vs MSc at Kings College London | ZDA vs VB" 
 description: "Filmske študije | PhD | Harvard vs Kings College"
 categories: podcast
-disciplines: Education, Študij, Harvard, Kings College, London, ZDA, VB
+disciplines: Education, Študij, Harvard, Kings College, London, ZDA, VB, PhD, MSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

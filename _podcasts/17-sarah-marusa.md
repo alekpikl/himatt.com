@@ -5,7 +5,7 @@ sitemap: true
 title: "Sarah & Maruša | Psihologija na Nizozemskem | Groningen & Leiden" 
 description: "Psihologija na Nizozemskem | Groningen & Leiden"
 categories: podcast
-disciplines: Education, Študij, Nizozemska, Psihologija, Leiden, Groningen
+disciplines: Education, Študij, Nizozemska, Psihologija, Leiden, Groningen, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

@@ -5,7 +5,7 @@ sitemap: true
 title: "Tilen Čenčič | Business Management | Queen Mary London" 
 description: "Business Management | Queen Mary London"
 categories: podcast
-disciplines: Education, Študij, Business Management, Queen Mary, London, VB
+disciplines: Education, Študij, Business Management, Queen Mary, London, VB, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

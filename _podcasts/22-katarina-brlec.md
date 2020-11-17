@@ -5,7 +5,7 @@ sitemap: true
 title: "Katarina Brlec | PhD Computational Chemistry | UCL London" 
 description: "PhD Computational Chemistry | UCL"
 categories: podcast
-disciplines: Education, Študij 
+disciplines: Education, Študij, PhD, Computational Chemistry, Kemija, UCL, London, GB, VB
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

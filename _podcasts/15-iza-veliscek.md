@@ -5,7 +5,7 @@ sitemap: true
 title: "2: Iza Velišček | Fizika | Imperial London" 
 description: "2: Fizika | Imperial London"
 categories: podcast
-disciplines: Education, Študij, Physics, Imperial, Fizika, London, UK, VB
+disciplines: Education, Študij, Physics, Imperial, Fizika, London, UK, VB, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

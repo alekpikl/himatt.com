@@ -5,7 +5,7 @@ sitemap: true
 title: "1: Oskar Cafuta | Urban Planning | KTH Stockholm" 
 description: "1: Urban Planning | KTH Stockholm"
 categories: podcast
-disciplines: Education, Študij, KTH, Stockholm, Urban Planning
+disciplines: Education, Študij, KTH, Stockholm, Urban Planning, MSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

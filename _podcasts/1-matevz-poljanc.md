@@ -5,7 +5,7 @@ sitemap: true
 title: "Matevž Poljanc | Cambridge 101 | Računalništvo" 
 description: "Cambridge | Računalništvo"
 categories: podcast
-disciplines: Education, Študij, Cambridge, CS, Računalništvo, Computer Science 
+disciplines: Education, Študij, Cambridge, CS, Računalništvo, Computer Science, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

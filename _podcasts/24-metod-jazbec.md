@@ -5,7 +5,7 @@ sitemap: true
 title: "Metod Jazbec | Data Science | ETH" 
 description: "Data Science | ETH"
 categories: podcast
-disciplines: Education, Študij 
+disciplines: Education, Študij, Švica, ETH, Zürich, Data Science, MSc, Podatkovna znanost
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

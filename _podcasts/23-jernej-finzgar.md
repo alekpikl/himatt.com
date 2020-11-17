@@ -5,7 +5,7 @@ sitemap: true
 title: "Jernej Finžgar | MSc Physics | LMU Munich" 
 description: "MSc Physics | LMU Munich"
 categories: podcast
-disciplines: Education, Študij 
+disciplines: Education, Študij, LMU, Munich, Fizika, Physics, Nemčija, MSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

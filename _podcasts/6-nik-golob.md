@@ -5,7 +5,7 @@ sitemap: true
 title: "Nik Gal Golob | Business Management | Calgary, Canada" 
 description: "Business Management | Calgary Canada"
 categories: podcast
-disciplines: Education, Študij, Canada, Calgary, Business Management
+disciplines: Education, Študij, Canada, Calgary, Business Management, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

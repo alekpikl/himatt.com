@@ -5,7 +5,7 @@ sitemap: true
 title: "Nik Golob | Deloitte Canada"
 description: "Deloitte | Canada"
 categories: podcast
-disciplines: Education, Careers 
+disciplines: Education, Careers, Canada, Calgary, Consulting, Deloitte
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

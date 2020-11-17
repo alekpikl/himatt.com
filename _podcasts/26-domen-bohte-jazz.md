@@ -5,7 +5,7 @@ sitemap: true
 title: "Domen Bohte | Jazz around the world" 
 description: "Jazz | Groningen / NYC"
 categories: podcast
-disciplines: Education, Študij 
+disciplines: Education, Študij, Jazz, Groningen, NYC, Nizozemska, Holland, USA, ZDA
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

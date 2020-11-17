@@ -5,7 +5,7 @@ sitemap: true
 title: "Lea Marolt Sonnenschein | Računalništvo in Umetnost | Grinnel (BSc) & Imperial (MSc)" 
 description: "Računalništvo in Umetnost | Grinnel (BSc) & Imperial (MSc)"
 categories: podcast
-disciplines: Education, Študij, Grinnel, NYC, London, ZDA, USA, London, GB, VB
+disciplines: Education, Študij, Grinnel, NYC, London, ZDA, USA, London, GB, VB, BSc, MSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

@@ -5,7 +5,7 @@ sitemap: true
 title: "Maks Tekavec | University of Michigan | College Athlete - Tenis" 
 description: "Michigan | Business | Athletics"
 categories: podcast
-disciplines: Education, Študij, ZDA, Michigan, Tenis, Athlete 
+disciplines: Education, Študij, ZDA, Michigan, Tenis, Athlete, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020

@@ -5,7 +5,7 @@ sitemap: true
 title: "Alek Pikl | Elektrotehnika | TUM Nemčija" 
 description: "Elektrotehnika | TUM Nemčija"
 categories: podcast
-disciplines: Education, Študij, Nemčija, TUM, München, Elektrotehnika
+disciplines: Education, Študij, Nemčija, TUM, München, Elektrotehnika, BSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020
