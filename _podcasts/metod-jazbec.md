@@ -16,7 +16,7 @@ website:
   url: https://soundcloud.com/striciiztujine/metod-jazbec-eth-zurich-data-science/s-dwnDXdduTTM 
 
 website_apple:
-  button_text: Apple Podcasts
+  button_text: Apple
   url: https://podcasts.apple.com/si/podcast/metod-jazbec-eth-z%C3%BCrich-data-science/id1435290632?i=1000490923379
 
 website_spotify:
