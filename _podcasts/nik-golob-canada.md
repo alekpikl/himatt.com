@@ -13,9 +13,21 @@ thumbnail: "/podcasts/pics/Nik-Golob.png"
 
 embed_link: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/802213750&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
 
+embed_link_apple: https://embed.podcasts.apple.com/si/podcast/nik-gal-golob-deloitte-canada-od-%C5%A1tudija-do-joba-v/id1435290632?i=1000490069622
+
+embed_link_spotify: https://open.spotify.com/embed-podcast/episode/7L5K9scixEKSzvfdd6ULER
+
 website:
-  button_text: Poslusaj na SoundCloudu 
+  button_text: SoundCloud
   url: https://soundcloud.com/striciiztujine/nik-gal-golob-deloitte-canada/s-M0HAQGsyJ8H?in=striciiztujine/sets/3-sezona/s-TX3BfKwHFFy
+
+website_apple:
+  button_text: Apple
+  url: https://podcasts.apple.com/si/podcast/nik-gal-golob-deloitte-canada-od-%C5%A1tudija-do-joba-v/id1435290632?i=1000490069622
+
+website_spotify:
+  button_text: Spotify
+  url: https://open.spotify.com/episode/7L5K9scixEKSzvfdd6ULER?si=Lte_L7pOQwCqco5deH9lfA
 
 intro: |
   Povratna epizoda z Nikom, konzulantom oz svetovalcem pri podjetju Deloitte 

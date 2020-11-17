@@ -27,11 +27,11 @@ title-class: podcast
 </script>
 
 <div class="podcast-wrapper">
-
   <div class="podcast-info">
     <section class="podcast-intro paragraph-normal"> 
-        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src={{page.embed_link}}>
-        </iframe>
+        <iframe width="100%" height="150" scrolling="no" frameborder="yes" allow="autoplay" src={{page.embed_link}}></iframe>
+        <iframe width="100%" height="150" scrolling="no" frameborder="yes" allow="autoplay" src={{page.embed_link_spotify}}></iframe> 
+        <iframe width="100%" height="160" scrolling="no" frameborder="yes" allow="autoplay" src={{page.embed_link_apple}}></iframe> 
         <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
             normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; 
             font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,
@@ -45,7 +45,7 @@ title-class: podcast
              target="_blank" 
              style="color: #cccccc; text-decoration: none;">
             {{page.title}}</a>
-        </div> 
+        </div>
     </section>
     <aside class="podcast-details">
       <div class="podcast-detail-wrapper">
@@ -71,6 +71,16 @@ title-class: podcast
         {% if page.website.url %}
         <div class="podcast-detail podcast-detail-12">
           <a href="{{ page.website.url }}" class="button-secondary">{{ page.website.button_text }}</a>
+        </div>
+        {% endif %}
+        {% if page.website_spotify %}
+        <div class="podcast-detail podcast-detail-12">
+          <a href="{{ page.website_spotify.url }}" class="button-secondary">{{ page.website_spotify.button_text }}</a>
+        </div>
+        {% endif %}
+        {% if page.website_apple %}
+        <div class="podcast-detail podcast-detail-12">
+          <a href="{{ page.website_apple.url }}" class="button-secondary">{{ page.website_apple.button_text }}</a>
         </div>
         {% endif %}
       </div>
