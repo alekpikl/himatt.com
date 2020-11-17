@@ -1,0 +1,14 @@
+.badge-row {
+    display: table;
+    border-collapse: separate;
+    width: 100%;
+}
+.badge {
+    display: table-cell;
+    vertical-align: top;
+}
+.item img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
