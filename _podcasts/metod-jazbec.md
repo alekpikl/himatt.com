@@ -1,7 +1,7 @@
 ---
 date: 2020-11-09
-published: false 
-sitemap: false
+published: true 
+sitemap: true
 title: "Metod Jazbec | Data Science | ETH" 
 description: "Data Science | ETH"
 categories: podcast

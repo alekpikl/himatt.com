@@ -1,7 +1,7 @@
 ---
 date: 2020-04-09
 published: true
-sitemap: false
+sitemap: true
 title: "Nik Golob | Deloitte Canada"
 description: "Deloitte | Canada"
 categories: podcast

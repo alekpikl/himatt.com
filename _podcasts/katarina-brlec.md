@@ -1,7 +1,7 @@
 ---
 date: 2020-09-23
 published: true 
-sitemap: false
+sitemap: true
 title: "Katarina Brlec | PhD Computational Chemistry | UCL London" 
 description: "PhD Computational Chemistry | UCL"
 categories: podcast

@@ -1,7 +1,7 @@
 ---
 date: 2020-09-25
 published: true 
-sitemap: false
+sitemap: true
 title: "Jernej Finžgar | MSc Physics | LMU Munich" 
 description: "MSc Physics | LMU Munich"
 categories: podcast
