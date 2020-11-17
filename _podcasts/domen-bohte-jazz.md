@@ -1,7 +1,7 @@
 ---
-date: 2020-10-02
+date: 2020-11-16
 published: false 
-sitemap: false
+sitemap: true
 title: "Domen Bohte | Jazz around the world" 
 description: "Jazz | Groningen / NYC"
 categories: podcast
@@ -12,10 +12,22 @@ time_period: 2020
 thumbnail: "/podcasts/pics/Domen-Bohte.png"
 
 website:
-  button_text: Poslusaj na SoundCloudu 
+  button_text: SoundCloud
   url: https://soundcloud.com/striciiztujine/domen-bohte-jazz-groningen-nyc/s-LA713uKSyBr?in=striciiztujine/sets/3-sezona/s-TX3BfKwHFFy 
 
+website_apple:
+  button_text: Apple
+  url: https://podcasts.apple.com/si/podcast/domen-bohte-jazz-groningen-nyc/id1435290632?i=1000493359331
+
+website_spotify:
+  button_text: Spotify
+  url: https://open.spotify.com/episode/1CTOB95lvEIMfQSkFtgvXy?si=61920gYGR3W7x3cdp8tCXQ
+
 embed_link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/781104907&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
+
+embed_link_apple: https://embed.podcasts.apple.com/si/podcast/domen-bohte-jazz-groningen-nyc/id1435290632?i=1000493359331
+
+embed_link_spotify: https://open.spotify.com/embed-podcast/episode/1CTOB95lvEIMfQSkFtgvXy
 
 intro: |
     Born and raised in Novo mesto, Slovenia, he began his musical path at the age of 7,
