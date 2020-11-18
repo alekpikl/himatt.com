@@ -30,7 +30,9 @@ embed_link_apple: https://embed.podcasts.apple.com/si/podcast/dr-jernej-ule-kroz
 embed_link_spotify: https://open.spotify.com/embed-podcast/episode/0286ClR4F6LT5Cv104kYLg
 
 intro: |
-    Strici x VTIS   
+    Strici x VTIS 
+    
+    Podcast je bil narejen za blog društva VTIS. Link do uradne objave in članka [na VTISovi spletni strani](https://www.drustvovtis.si/si/blog-clanki/2015/10/15/ramen-fdlra-k45y4?rq=ule). 
 
     Pogovarjal sem se z doktorjem Jernejem Uletom, profesorjem molekularne nevroznanost na University College v Londonu. Njegov laboratorij se imenuje RNA networks lab in se ukvarja s posebno, za življenje nepogrešno molekulo: RNA (ribonukleinska kislina). Pri tem sodeluje z drugimi Slovenci po svetu in domovini ter za njegov prispevek k spodbujanju kroženja znanja je prejel priznanje VTIS leta 2019. Kot vodja raziskovalnega laboratorija na Univerzi Cambridge in nato na University College London so pri njem gostovali ali študirali številni mladi slovenski znanstveniki. Letos je ob podpori evropskega raziskovalnega sklada odprl podružnico svojega RNA networks lab-a na Kemijskem Inštitutu v Ljubljani.
 

@@ -30,6 +30,10 @@ embed_link_apple: https://embed.podcasts.apple.com/si/podcast/nina-in-dr-jure-le
 embed_link_spotify: https://open.spotify.com/embed-podcast/episode/2dFRtv9durK1HzC99HUfw1
 
 intro: |
+    Strici x VTIS 
+    
+    Podcast je bil narejen za blog društva VTIS. Link do uradne objave in članka [na VTISovi spletni strani](https://www.drustvovtis.si/si/blog-clanki/2015/10/15/ramen-fdlra-k45y4-8gyer). 
+
     Pogovarjal sem se z Nino in dr. Juretom Leskovec. Nina je magistra kvantitativnih financ, sedaj zaposlena na podjetju ComCom, kjer se ukvarja s podatkovno analitiko ter direktorica ASEF Slovenije. Jure je profesor na univerzi Stanford v San Franciscu, glavni znanstvenik na podjetju Pinterest ter raziskovalec na inštitutu Chan Zuckerberg Biohub. Jure je leta 2014 soustanovil fundacijo ASEF. ASEF je ameriško-slovenska izobraževalna fundacija, ki spodbuja kroženje znanja in povezuje slovenske izobražence in profesorje po celem svetu, zakar so leta 2018 prejeli priznanje VTIS leta. V fundaciji je zbranih preko 50 svetovno priznanih slovenskih profesorjev, ki delujejo na najboljših univerzah po svetu. Preko fundacije sodelujejo s Slovenijo ter mlad in v Sloveniji omogočajo rast in razvoj. V teh letih je ASEF s štipendijami in programi pomagal preko 130 mladim.
 
     Prijetno poslušanje!
