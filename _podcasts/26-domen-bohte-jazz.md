@@ -9,7 +9,7 @@ disciplines: Education, Študij, Jazz, Groningen, NYC, Nizozemska, Holland, USA,
 media: podcast
 ownership: Alek Pikl
 time_period: 2020
-thumbnail: "/podcasts/pics/Domen-Bohte.png"
+thumbnail: "/podcasts/pics/Domen.png"
 
 website:
   button_text: SoundCloud

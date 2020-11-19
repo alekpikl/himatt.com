@@ -9,7 +9,7 @@ disciplines: Education, Študij, Švica, ETH, Zürich, Data Science, MSc, Podatk
 media: podcast
 ownership: Alek Pikl
 time_period: 2020
-thumbnail: "/podcasts/pics/Metod-Jazbec.png"
+thumbnail: "/podcasts/pics/Metod.png"
 
 website:
   button_text: SoundCloud

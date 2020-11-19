@@ -9,7 +9,7 @@ disciplines: Education, Careers, Canada, Calgary, Consulting, Deloitte
 media: podcast
 ownership: Alek Pikl
 time_period: 2020
-thumbnail: "/podcasts/pics/Nik-Golob.png"
+thumbnail: "/podcasts/pics/Nik.png"
 
 embed_link: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/802213750&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
 

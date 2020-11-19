@@ -9,7 +9,7 @@ disciplines: Education, Študij, LMU, Munich, Fizika, Physics, Nemčija, MSc
 media: podcast
 ownership: Alek Pikl
 time_period: 2020
-thumbnail: "/podcasts/pics/Jernej-Finzgar.png"
+thumbnail: "/podcasts/pics/Jernej.png"
 
 website:
   button_text: SoundCloud 

@@ -9,7 +9,7 @@ disciplines: Education, Študij, PhD, Computational Chemistry, Kemija, UCL, Lond
 media: podcast
 ownership: Alek Pikl
 time_period: 2020
-thumbnail: "/podcasts/pics/Katarina-Brlec.png"
+thumbnail: "/podcasts/pics/Katarina.png"
 
 website:
   button_text: SoundCloud
