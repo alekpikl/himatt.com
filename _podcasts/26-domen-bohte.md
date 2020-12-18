@@ -1,6 +1,6 @@
 ---
-date: 2020-11-16
-published: false 
+date: 2020-12-25
+published: true 
 sitemap: true
 title: "Domen Bohte | Jazz around the world" 
 description: "Jazz | Groningen / NYC"
