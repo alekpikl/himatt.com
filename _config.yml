@@ -64,12 +64,12 @@ compress_html: # http://jch.penibelst.de/
 # Structure
 # When using it, it has to be prepended with site.baseurl!!!
 navigation:
-  - title: Podcasts
+  - title: Podkasti
     url: /
-  - title: About
+  - title: O meni
     url: /about
-  - title: Contact
-    url: /contact
+  - title: Kontakt
+    url: /kontakt
 
 permalink: /:title/
 
