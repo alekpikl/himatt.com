@@ -25,9 +25,9 @@ website_spotify:
 
 embed_link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/945200443%3Fsecret_token%3Ds-DjSznKK9J6O&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true 
 
-embed_link_apple:  https://podcasts.apple.com/si/podcast/julija-praprotnik-atletinja-s-polno-%C5%A1tipendijo-za-msc/id1435290632?i=1000502799348
+embed_link_apple: https://embed.podcasts.apple.com/si/podcast/julija-praprotnik-atletinja-s-polno-%C5%A1tipendijo-za-msc/id1435290632?i=1000502799348 
 
-embed_link_spotify:  https://open.spotify.com/embed-podcast/episode/5m5MVP2Fqnfv4xggnQTMTD
+embed_link_spotify: https://open.spotify.com/embed-podcast/episode/5m5MVP2Fqnfv4xggnQTMTD
 
 intro: |
     Danes sem se pogovarjal z Julijo Praprotnik. Opisala je svojo študijsko in športno pot v tujini, ki se je začela z Erasmus izmenjavo na Nizozemskem, potem pa jo je vodila na magisterij na University of San Francisco v Kaliforniji, kjer je dobila polno športno štipendijo. Vseskozi je bila namreč uspešna atletinja na 400m ovire. 
